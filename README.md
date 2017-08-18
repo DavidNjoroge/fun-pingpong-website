@@ -21,7 +21,11 @@ its a simple game. it will show ping when a number is divisible by 3 and display
 for the front end, i used html and css for the styling with bootstrap and jQuery frameworks. for the backend i used javascript using TDD method
 
 ## Behaviour Driven Development (TDD)
-* divi
+# Specifications
+* it can count up to a certain number
+* it can detect if the number is divisible by 3 and list "ping!"
+* it can detect if a number is divisible by 5 and list "pong!"
+* it can detect if the number is divisible by both 3 and 5 and list "ping pong"
 
 
 ### License
