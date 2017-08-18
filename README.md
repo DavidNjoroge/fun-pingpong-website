@@ -1,6 +1,6 @@
 # Ping Pong Game
 
-#### using, august 18 2017
+#### august 18 2017
 
 #### By **David Mwangi**
 
