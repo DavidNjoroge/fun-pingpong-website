@@ -1,17 +1,18 @@
 var countr = function(numb) {
   for (var i = 1; i <= numb; i++) {
     if ((i % 3 === 0) && (i % 5 === 0)) {
-      alert("ping pong");
+
+      $(".theList").append("<li>Ping Pong!</li>");
 
     } else if (i % 5 === 0) {
-
-      alert("pong");
+      $(".theList").append("<li>Pong</li>");
     } else if (i % 3 === 0) {
 
+      $(".theList").append("<li>Ping</li>");
 
-      alert("ping");
     } else {
-      alert(i);
+
+      $(".theList").append("<li>"+i+"</li>");
     }
   }
 };
